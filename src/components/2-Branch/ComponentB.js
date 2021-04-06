@@ -1,0 +1,11 @@
+import ComponentD from './ComponentD';
+
+const ComponentB = () => {
+  return (
+    <>
+      <ComponentD />
+    </>
+  );
+};
+
+export default ComponentB;
